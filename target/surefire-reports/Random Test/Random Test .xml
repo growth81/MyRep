@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="deepa-PC" name="com.maven.datadriven.framework.RandomTest" tests="1" failures="0" timestamp="21 Feb 2015 01:22:11 GMT" time="0.018" errors="0">
+  <testcase name="testApp" time="0.01" classname="com.maven.datadriven.framework.RandomTest"/>
+</testsuite>
